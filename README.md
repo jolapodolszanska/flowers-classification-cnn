@@ -1,7 +1,7 @@
 # Flower Classification Project
 
 ## Overview
-This project focuses on the development and refinement of a machine learning model aimed at classifying images of flowers into their respective species. Using a convolutional neural network (CNN), the model is trained to distinguish among various common flower types such as roses, tulips, dandelions, and sunflowers.
+This project focuses on the development and refinement of a machine learning model aimed at classifying images of flowers into their respective species. Using a convolutional neural network (CNN), the model is trained to distinguish among various common flower types such as roses, tulips, dandelions, and sunflowers. This project uses a Flowers Recognition dataset from Kaggle 
 
 ## Features
 - **Data Preprocessing**: Includes image resizing, normalization, and augmentation to enhance model training.
