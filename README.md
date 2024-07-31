@@ -1,3 +1,5 @@
+**This project is part of the assignments for students in the computer science major in the subject of Artificial Neural Networks and Deep Learning.**
+
 # Flower Classification Project
 
 ## Overview
